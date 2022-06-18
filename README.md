@@ -3,7 +3,7 @@
 > This is a huddle landing page
 
 ![Mobile Design](./images/mobile.png)
-![Desktop Design](./images/desktop.pngmobile.png)
+![Desktop Design](./images/desktop.png)
 
 ## Built With
 
@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://was-coder.github.io/huddle/)
 
 ## Style Guides
 

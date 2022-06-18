@@ -2,7 +2,12 @@
 
 > This is a huddle landing page
 
+## Mobile Screenshot
+
 ![Mobile Design](./images/mobile.png)
+
+## Desktop Screenshot
+
 ![Desktop Design](./images/desktop.png)
 
 ## Built With

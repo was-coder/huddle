@@ -1,0 +1,63 @@
+/* general styling */
+.style-text {
+  padding-left: 5px;
+  width: 100%;
+}
+
+.style-h2 {
+  font-size: 3.2rem;
+}
+
+.style-p {
+  font-size: 1.3rem;
+}
+
+/* desktop styling */
+.header {
+  padding: 25px 50px;
+}
+
+.community-section {
+  padding: 150px 50px;
+}
+
+.flow-text-div h2 {
+  font-size: 2.7rem;
+}
+
+.start-section {
+  top: 75%;
+}
+
+.ready-h2 {
+  font-size: 1.8rem;
+}
+
+.footer {
+  padding: 150px 50px 100px 50px;
+}
+
+.address-img {
+  width: 10%;
+  height: 10%;
+}
+
+.address-p {
+  width: 80%;
+}
+
+.list-div {
+  width: 50%;
+}
+
+.copyright-div {
+  width: 90%;
+}
+
+.brand-div {
+  margin-bottom: 100px;
+}
+
+.copyright-p {
+  font-size: 1rem;
+}

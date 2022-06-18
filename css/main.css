@@ -1,0 +1,149 @@
+/* mobile design styling */
+.main-container {
+  position: relative;
+}
+
+.header {
+  position: fixed;
+  padding: 25px;
+  width: 100%;
+  z-index: 1;
+}
+
+.header-logo {
+  width: 50%;
+  height: 50%;
+  margin-top: 10px;
+}
+
+.header-btn {
+  background: var(--white);
+  padding: 10px 30px;
+}
+
+.community-section {
+  flex-direction: column;
+  padding-top: 150px;
+  margin: 0 auto;
+  width: 80%;
+}
+
+.community-btn {
+  background: var(--pink);
+  color: var(--white);
+  padding: 15px 70px;
+  margin: 20px 0;
+}
+
+.community-img {
+  margin: 50px 0;
+}
+
+.flow-text-div h2 {
+  font-size: 1.7rem;
+}
+
+.user-section {
+  margin-bottom: 300px;
+}
+
+.start-section {
+  position: absolute;
+  top: 73.7%;
+  left: 5%;
+}
+
+.ready-h2 {
+  font-size: 1.2rem;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.ready-btn {
+  display: block;
+  margin: 20px auto;
+}
+
+.footer {
+  background: var(--very-dark-cyan);
+  padding: 200px 0 20px 0px;
+}
+
+.footer-img {
+  width: 50%;
+  height: 50%;
+  padding: 0;
+}
+
+.footer-address {
+  margin: 20px 0;
+}
+
+.address {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 10px;
+}
+
+.address-img {
+  width: 3%;
+  height: 3%;
+  padding: 0;
+}
+
+.address-p {
+  width: 90%;
+  color: var(--white);
+}
+
+.list-link {
+  color: var(--white);
+  text-transform: capitalize;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.list-li {
+  list-style: none;
+  padding: 10px 10px;
+  font-family: var(--sans);
+}
+
+.copyright-div {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  color: var(--white);
+}
+
+.brand-div {
+  padding: 20px 10px;
+}
+
+.brand-link {
+  color: var(--white);
+}
+
+.brand-logo {
+  padding: 10px 15px;
+  font-size: 1.5rem;
+  margin-right: 20px;
+  border: 1px solid var(--white);
+  border-radius: 50%;
+}
+
+.copyright-p {
+  font-family: var(--sans);
+}
+
+.btn:hover {
+  opacity: 0.7;
+}
+
+.list-link:hover {
+  text-decoration: underline;
+}
+
+.brand-link:hover {
+  color: var(--pink);
+}

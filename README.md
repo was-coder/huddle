@@ -2,7 +2,8 @@
 
 > This is a huddle landing page
 
-![Huddle Image]()
+![Mobile Design](./images/mobile.png)
+![Desktop Design](./images/desktop.pngmobile.png)
 
 ## Built With
 
